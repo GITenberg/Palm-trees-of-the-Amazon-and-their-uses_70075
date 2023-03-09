@@ -1,0 +1,34 @@
+_repo: Palm-trees-of-the-Amazon-and-their-uses_70075
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Alfred Russel
+    aliases:
+    - Wallace, A. R. (Alfred Russel)
+    - Wallace, Russell
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+description: ''
+gutenberg_issued: '2023-02-19'
+identifiers:
+  gutenberg: '70075'
+language: en
+pgterms:marc904: https://archive.org/details/palmtreesofamazo00wall
+pgterms:marc905: 20211011071441wallace
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJ. Van Voorst, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palms -- Amazon River Valley'
+- !lcc 'QK'
+- GITenberg
+title: Palm trees of the Amazon and their uses
+url: http://www.gutenberg.org/ebooks/70075
